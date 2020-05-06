@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\2.3F\2.3F\bin\Debug\2.3F.exe.config
+C:\Users\Aleks\source\repos\2.3F\2.3F\bin\Debug\2.3F.exe
+C:\Users\Aleks\source\repos\2.3F\2.3F\bin\Debug\2.3F.pdb
+C:\Users\Aleks\source\repos\2.3F\2.3F\obj\Debug\2.3F.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\2.3F\2.3F\obj\Debug\_2._3F.Form1.resources
+C:\Users\Aleks\source\repos\2.3F\2.3F\obj\Debug\_2._3F.Properties.Resources.resources
+C:\Users\Aleks\source\repos\2.3F\2.3F\obj\Debug\2.3F.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\2.3F\2.3F\obj\Debug\2.3F.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\2.3F\2.3F\obj\Debug\2.3F.exe
+C:\Users\Aleks\source\repos\2.3F\2.3F\obj\Debug\2.3F.pdb
